@@ -56,4 +56,9 @@ Um caminho relativo também faz referência ao local de um arquivo ou diretório
 <p> https://www.alura.com.br/artigos/caminhos-entenda-diferencas-entre-absolutos-relativos
 
 # LINK PARA OS ARQUIVOS DE SCRIPT
-* <a href="https://github.com/wilkerlisboa/arquivos-.bat/blob/main/script_especifica.bat">script relativo com variaveis</a> 
+* <a href="https://github.com/wilkerlisboa/arquivos-.bat/blob/main/script_especifica.bat">script com caminho relativo com estrutura de variaveis</a>
+
+* <a href="https://github.com/wilkerlisboa/arquivos-.bat/blob/main/caminho%20CA.bat">script com caminho relativo</a>
+
+* <a href="https://github.com/wilkerlisboa/arquivos-.bat/blob/main/caminho%20CA.bat">script com caminho relativo</a>
+
