@@ -54,3 +54,6 @@ Um caminho relativo também faz referência ao local de um arquivo ou diretório
 <p> https://social.msdn.microsoft.com/Forums/pt-BR/7f8f5899-5e3d-4ca6-9ba7-60953360ae23/caminho-absoluto-e-caminho-relativo-qual-a-diferena-entre-os-dois?forum=mvcpt
 
 <p> https://www.alura.com.br/artigos/caminhos-entenda-diferencas-entre-absolutos-relativos
+
+# LINK PARA OS ARQUIVOS DE SCRIPT
+* <a href="https://github.com/wilkerlisboa/arquivos-.bat/blob/main/script_especifica.bat">script relativo com variaveis</a> 
