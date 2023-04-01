@@ -50,7 +50,7 @@ Um caminho relativo também faz referência ao local de um arquivo ou diretório
 # LINK PARA OS ARQUIVOS DE SCRIPT
 * <a href="https://github.com/wilkerlisboa/arquivos-.bat/blob/main/caminho-com-variavel.bat">script com caminho relativo com estrutura de variaveis</a>
 
-* <a href="https://github.com/wilkerlisboa/arquivos-.bat/blob/main/caminho%20CA.bat">script com caminho relativo</a>
+* <a href="https://github.com/wilkerlisboa/arquivos-.bat/blob/main/caminho%20RO.bat">script com caminho relativo</a>
 
 * <a href="https://github.com/wilkerlisboa/arquivos-.bat/blob/main/caminho%20CA.bat">script com caminho absoluto</a>
 
