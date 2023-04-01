@@ -1,75 +1,76 @@
-mkdir Professor 
-cd Professor
-mkdir Disciplina1 Disciplina2 Disciplina3 Disciplina4
-cd Disciplina1 
-mkdir unidade1 unidade2 unidade3 avs 
-cd unidade1 
-mkdir at 
-cd ..\..
-cd Disciplina1
-cd unidade2
-mkdir at
-cd ..\..
-cd Disciplina1
-cd unidade3
-mkdir at
-cd ..\..
-cd Disciplina1
-cd avs
-mkdir av1 av2 av3 recupera
-cd ..\..
-cd Disciplina2
-mkdir unidade1 unidade2 unidade3 avs 
-cd unidade1
-mkdir at
-cd ..\..
-cd Disciplina2 
-cd unidade1
-mkdir at
-cd ..\..
-cd Disciplina2 
-cd unidade2
-mkdir at 
-cd ..\..
-cd Disciplina2 
-cd unidade3
-mkdir at 
-cd ..\..
-cd Disciplina2 
-cd avs
-mkdir av1 av2 av3 recupera 
-cd ..\..
-cd Disciplina3
-mkdir unidade1 unidade2 unidade3 avs
-cd unidade1
-mkdir at 
-cd ..\.. 
-cd Disciplina3 
-cd unidade2
-mkdir at
-cd ..\..
-cd Disciplina3
-cd unidade3
-mkdir at
-cd ..\..
-cd Disciplina3
-cd avs
-mkdir av1 av2 av3 recupera 
-cd ..\..
-cd Disciplina4
-mkdir unidade1 unidade2 unidade3 avs
-cd unidade1
-mkdir at 
-cd ..\..
-cd Disciplina4
-cd unidade2
-mkdir at
-cd ..\..
-cd Disciplina4
-cd unidade3
-mkdir at
-cd ..\..
-cd Disciplina4
-cd avs
-mkdir av1 av2 av3 recupera
+mkdir professor 
+mkdir professor\disciplina1
+mkdir professor\disciplina2
+mkdir professor\disciplina3
+mkdir professor\disciplina4
+mkdir professor\disciplina5
+
+mkdir professor\disciplina1\unidade1
+mkdir professor\disciplina1\unidade2
+mkdir professor\disciplina1\unidade3
+mkdir professor\disciplina1\avs
+
+mkdir professor\disciplina1\unidade1\at
+mkdir professor\disciplina1\unidade2\at
+mkdir professor\disciplina1\unidade3\at
+mkdir professor\disciplina1\avs\av1
+mkdir professor\disciplina1\avs\av2
+mkdir professor\disciplina1\avs\av3
+mkdir professor\disciplina1\avs\recupera
+// DISCIPLINA02
+mkdir professor\disciplina2\unidade1
+mkdir professor\disciplina2\unidade2
+mkdir professor\disciplina2\unidade3
+mkdir professor\disciplina2\avs
+
+mkdir professor\disciplina2\unidade1\at
+mkdir professor\disciplina2\unidade2\at
+mkdir professor\disciplina2\unidade3\at
+mkdir professor\disciplina2\avs\av1
+mkdir professor\disciplina2\avs\av2
+mkdir professor\disciplina2\avs\av3
+mkdir professor\disciplina2\avs\recupera
+
+// DISCIPLINA03
+mkdir professor\disciplina3\unidade1
+mkdir professor\disciplina3\unidade2
+mkdir professor\disciplina3\unidade3
+mkdir professor\disciplina3\avs
+
+mkdir professor\disciplina3\unidade1\at
+mkdir professor\disciplina3\unidade2\at
+mkdir professor\disciplina3\unidade3\at
+mkdir professor\disciplina3\avs\av1
+mkdir professor\disciplina3\avs\av2
+mkdir professor\disciplina3\avs\av3
+mkdir professor\disciplina3\avs\recupera
+
+//DISCIPLINA04
+mkdir professor\disciplina4\unidade1
+mkdir professor\disciplina4\unidade2
+mkdir professor\disciplina4\unidade3
+mkdir professor\disciplina4\avs
+
+mkdir professor\disciplina4\unidade1\at
+mkdir professor\disciplina4\unidade2\at
+mkdir professor\disciplina4\unidade3\at
+mkdir professor\disciplina4\avs\av1
+mkdir professor\disciplina4\avs\av2
+mkdir professor\disciplina4\avs\av3
+mkdir professor\disciplina4\avs\recupera
+
+//DISCIPLINA05
+mkdir professor\disciplina5\unidade1
+mkdir professor\disciplina5\unidade2
+mkdir professor\disciplina5\unidade3
+mkdir professor\disciplina5\avs
+
+mkdir professor\disciplina5\unidade1\at
+mkdir professor\disciplina5\unidade2\at
+mkdir professor\disciplina5\unidade3\at
+mkdir professor\disciplina5\avs\av1
+mkdir professor\disciplina5\avs\av2
+mkdir professor\disciplina5\avs\av3
+mkdir professor\disciplina5\avs\recupera
+
 pause
