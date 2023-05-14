@@ -1,4 +1,7 @@
 echo off
+title FERRAMENTAS ADMINISTRATIVAS
+color 02
+:i
 echo ########################################################
 echo #      FERRAMENTAS ADMINISTRATIVAS                     #
 echo #      1.Rota DNS Google                               #
@@ -9,8 +12,8 @@ echo #      5.Reiniciar spooler de impressao                #
 echo #      6.Limpar cache DNS                              #
 echo #      7.Sair do programa                              #
 echo ########################################################
-:i
-choice /c "1234567" /n /m "ROOT>"
+echo Digite o numero de cima para usar.
+choice /c "1234567" /n /m " -DELTA TEAM>"
 
 
 :dec
