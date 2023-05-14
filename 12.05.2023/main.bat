@@ -1,4 +1,14 @@
-echo off 
+echo off
+echo ########################################################
+echo #      FERRAMENTAS ADMINISTRATIVAS                     #
+echo #      1.Rota DNS Google                               #
+echo #      2.Configuracao do sistema                       #
+echo #      3.Ferramenta de diagnostico do directX          #
+echo #      4.Gerenciador de tarefas                        #
+echo #      5.Reiniciar spooler de impressao                #
+echo #      6.Limpar cache DNS                              #
+echo #      7.Sair do programa                              #
+echo ########################################################
 :i
 choice /c "1234567" /n /m "ROOT>"
 
