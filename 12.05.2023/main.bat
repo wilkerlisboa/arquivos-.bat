@@ -13,7 +13,7 @@ echo #      6.Limpar cache DNS                              #
 echo #      7.Sair do programa                              #
 echo ########################################################
 echo Digite o numero de cima para usar.
-choice /c "1234567" /n /m " -DELTA TEAM>"
+choice /c "1234567" /n /m " - ROOT DELTA >"
 
 
 :dec
